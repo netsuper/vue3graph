@@ -15,3 +15,11 @@ Follow the directions in that repo to setup your Azure App ID then replace the I
   npm install
   
   npm run dev
+
+  
+  # Microsoft Graph Toolkit
+  https://mgt.dev/
+  
+  # Microsoft Graph Explorer
+  
+  https://developer.microsoft.com/en-us/graph/graph-explorer
