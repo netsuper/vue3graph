@@ -1,7 +1,17 @@
-# Vue 3 + Vite
+# Original Vue 2
+This is a Vite/Vue 3 version of this Vue 2 repo.  https://github.com/benc-uk/msal-graph-vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+It does not include the docker instance, just a Vue app.  
+It uses the composition API with <script setup> and Pinia state management (to control component state).  
+I also added a couple graph features (email, sharepoint root site).
 
-## Recommended IDE Setup
+Follow the directions in that repo to setup your Azure App ID then replace the ID in code.  :)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+# Get Started
+
+1. Clone the repo
+2. run:
+  
+  npm install
+  
+  npm run dev
