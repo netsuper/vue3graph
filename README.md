@@ -24,7 +24,7 @@ Follow the directions in that repo to setup your Azure App ID then replace the I
   
   https://developer.microsoft.com/en-us/graph/graph-explorer
 
-  #OData
+  # OData
   
   Microsoft SharePoint has been using the Microsoft Open Data (OData) protocol for years for REST API access.  It has similar functionality to GraphQL 
   (my impresssion is they named MSGraph after that paradigm, although it isn't technically GraphQL) in that you can return child entities in a single
